@@ -1,0 +1,20 @@
+.espacio {
+    padding: 12px;
+}
+
+/* Tipografía global */
+body, h1, h2, h3, h4, h5, h6, p, a, label, button {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3 {
+    font-weight: 700; /* Títulos fuertes */
+}
+
+p, a, label, button {
+    font-weight: 400; /* Texto normal */
+}
+
+.fw-semibold {
+    font-weight: 600; /* Campos intermedios */
+}
